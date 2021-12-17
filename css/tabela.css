@@ -1,0 +1,42 @@
+table,td,th,tr{
+    position: relative;
+    border-collapse: collapse; 
+
+  
+   
+    padding: 20px 20px;
+  }
+
+  div.cartaoC1{
+ 
+    box-shadow: white 2px 1px 2px 1px;
+    background-color: rgba(255, 255, 255, 0.76);
+    border-radius: 15px;
+    width: 1310px;
+text-align: justify;
+text-decoration: transparent;
+
+}
+div.cartaoC1{
+ margin-left:200px;
+
+ padding-left: 100px;
+ padding: 50px;
+
+
+}
+td,th,tr{
+
+ 
+padding-left: 33px;
+   
+ 
+  }
+  th{
+    background-color: rgb(19, 19, 54);
+    color: beige;
+}
+#cor{
+  background-color: rgb(130, 141, 79);
+  color: rgb(161, 161, 161);}
+

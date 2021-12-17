@@ -1,0 +1,33 @@
+table,td,th,tr{
+
+    border-collapse: collapse; 
+
+  
+   
+
+  }
+  th{
+      background-color: rgb(19, 19, 54);
+      color: beige;
+  }
+  td{
+    border-left: none;
+    border-right: none;
+
+  }
+  #pd{
+   font-size: 2pc;
+font-family: 'Times New Roman', Times, serif;
+
+  
+  }
+  #Ni{
+      color: rgb(255, 0, 0);
+      font-size: 2pc;
+      font-family: Segoe Print;
+  }
+  #id{
+      background-color: rgb(54, 8, 97);
+  }
+
+

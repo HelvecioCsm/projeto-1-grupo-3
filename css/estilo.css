@@ -1,0 +1,249 @@
+body{
+    
+    background-color: dimgrey;
+}
+.menu{
+    background-color: midnightblue;
+
+    background-size:cover;
+
+
+}
+.menu{
+    padding: 50px;
+    position: relative;
+    top: -5px;
+   
+}
+ li{
+display: inline-block;
+background-color: oldlace;
+padding-right: 70px;
+padding-left: 50px;
+border-radius: 20px;
+color: black;
+height: 30px;
+padding-top: 10px;
+}
+
+.rodape{
+    background-color:#01012e ;
+    color: oldlace;
+}
+
+li:hover{
+    background-color:rgb(168, 152, 120);
+    color:rgb(10, 10, 9) ;
+}
+li#ativo{
+    background-color:rgb(177, 115, 115) ;
+    color: oldlace;
+}
+h3#infocima{
+    text-align: center;
+    box-shadow: blanchedalmond 2px 2px 2px 2px ;
+    background-color: rgb(19, 21, 51);
+    border-radius: 24px;
+    color: white;
+}
+div.cartao{
+ 
+    box-shadow: white 2px 1px 2px 1px;
+    background-color: rgba(255, 255, 255, 0.76);
+    border-radius: 15px;
+    width: 900px;
+    padding: 70px;
+
+}
+div.cartao{
+ margin-left:300px;
+ font-family:Arial, Helvetica, sans-serif;
+ font-size: 17px;
+}
+div.cartaoC{
+ 
+    box-shadow: white 2px 1px 2px 1px;
+    background-color: rgba(255, 255, 255, 0.76);
+    border-radius: 15px;
+    width: 800px;
+    padding: 50px;
+  
+
+}
+div.cartaoC{
+ margin-left:300px;
+ width: 1000px;
+margin-right: 500px
+ ;
+}
+
+img#image{
+    width: 180px;
+    height: 180px;
+    cursor:all-scroll;
+
+    box-shadow: white 1px 1px 1px 3px;
+
+}
+
+img#image1{
+    width: 100px;
+    height: 100px;
+    cursor:all-scroll;
+
+    box-shadow: white 1px 1px 1px 3px;
+
+}
+img#imageC{
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+    cursor:all-scroll;
+margin-top: 3px;
+    box-shadow: rgb(29, 26, 26) 1px 1px 1px 1px;
+
+
+}
+div.cartaoprincipal {
+     
+    box-shadow: white 2px 1px 2px 1px;
+    background-color: rgba(255, 255, 255, 0.76);
+    border-radius: 15px;
+    width: 1200px;
+    padding: 50px;
+    margin-left:200px;
+   
+}
+img#imageprincipal{
+     width: 1100px;
+    padding-left: 50px;
+}
+
+aside#direita{
+
+    text-align: left;
+    padding-left: 50px;
+}
+aside#esquerda{
+
+    text-align: left;
+    padding-left: 50px;
+    margin-left:-250px;
+}
+aside{
+    display: inline-block;
+    padding-right: 600px;
+}
+h1#fala{
+    text-align: center;
+    
+  margin-top: -500px;
+  position: relative;
+
+}
+div#quadro{
+background-color: rgb(36, 33, 33);
+padding: 300px;
+border: 1px solid black;
+width:2px;
+background-size: cover;
+margin-left: 450px;
+box-shadow: blanchedalmond 1px 1px 8px 2px;
+border-radius: 7px;
+}
+
+div#quadro1{
+    background-color: rgb(36, 33, 33);
+    padding: 900px;
+    border: 1px solid black;
+ width: 500px;
+    background-size: cover;
+    padding-left: 100px;
+    box-shadow: blanchedalmond 1px 1px 8px 2px;
+    border-radius: 7px;
+    }
+h2#prato{
+    position: absolute;
+    margin-left: 500px;
+    top: 300px;
+    color: whitesmoke;
+    font-family: Bradley Hand ITC;
+}
+h2#prato1{
+    position: absolute;
+    margin-left: 500px;
+    top: 250px;
+    color: rgb(175, 162, 162);
+    font-family: Bradley Hand ITC;
+}
+
+h2#pratol{
+    position: absolute;
+    margin-left: 500px;
+    top: 600px;
+    color: whitesmoke;
+    font-family: Bradley Hand ITC;
+}
+h2#pratol1{
+    position: absolute;
+    margin-left: 500px;
+    top: 550px;
+    color:rgb(175, 162, 162);;
+    font-family: Bradley Hand ITC;
+}
+div#cardapio{
+    position: absolute;
+    margin-left: 500px;
+    top: 300px;
+    color: whitesmoke;
+
+}
+div#bom{
+    padding-right: 200px;
+    padding-left: 12px;
+    margin-left: -400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(226, 222, 215);
+    box-shadow: rgb(87, 85, 81) 1px 1px 19px 2px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+#lg:hover{
+    background-color: darkblue;
+    color: white;
+    border-radius: 16px;
+
+
+}
+#l:hover{
+    background-color: red;
+    color: white;
+    border-radius: 16px;
+
+}
+img#imgroda{
+    width: 20px;
+    height: 20px;
+}.mn,li{
+
+    display: block;
+    width: 40px;
+    margin: 10px;
+
+}
+.mn{
+    position: relative;
+   margin-left: -50px;
+    display: block;
+    width: 40px;
+    position: fixed;
+}
+.conteiner{
+
+ 
+ 
+    color: blue;
+    
+}
